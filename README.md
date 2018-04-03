@@ -9,4 +9,4 @@ Modified two things for better understanding.
 2) Add more comments
 
 I tested this library on Atmega328p and it worked over baudrate 57600bps
-![terminal](./terminal.jpg)
+![terminal](./terminal.JPG)
